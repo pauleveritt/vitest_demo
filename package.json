@@ -9,6 +9,7 @@
     "test": "vitest"
   },
   "devDependencies": {
+    "@vitest/ui": "^0.12.6",
     "typescript": "^4.5.4",
     "vite": "^2.9.9",
     "vitest": "^0.12.6"
